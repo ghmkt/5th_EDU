@@ -1,7 +1,6 @@
 # 5th_EDU 
 
 Growth hackers 5기 education session을 위한 교육 자료입니다.
-(Growth hackers 2019, all rights reserved)
 
 *****
 
@@ -19,7 +18,7 @@ Growth hackers 5기 education session을 위한 교육 자료입니다.
  >
 * Session 05 : 데이터 수집과 관리
  > 1. Requests, Beautifulsoup, Selenium을 이용한 웹 크롤링 방법
- > 2. Open api 실습 : KOBIS OPEN API 사용해
+ > 2. Open api 실습 : KOBIS OPEN API 사용 예제
  > 3. csv, pickle, database 에 데이터 저장 
  > 4. sqlite 실습
  
@@ -35,3 +34,8 @@ Growth hackers 5기 education session을 위한 교육 자료입니다.
  > 
 * Session 11 : 자연어 처리
  >
+ 
+ ******
+ * Contact : 회장 양영진 (010.8422.3911) 부회장 정혜선 (010.5128.1772)
+ * Official hompage: [Growth hackers](https://ghmkt.kr/INTRO)
+ * Growth hackers 2019, all rights reserved
