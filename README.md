@@ -8,7 +8,10 @@ Growth hackers 5기 education session을 위한 교육 자료입니다.
 ## Growth hackers 5기 교육 자료 목차
 
 * Session 00 : 송인성 교수님 Meet up
- >
+ > 1. 스터디 팀 소개
+ > 2. PR, 내부운영, 대외협력팀 소개
+ > 3. GitHub 계정 생성
+ 
 * Session 01 : Introduction
  > 
 * Session 02 : Anaconda, IDE, GIT
@@ -16,9 +19,7 @@ Growth hackers 5기 education session을 위한 교육 자료입니다.
 * Session 03 : 머신러닝과 빅데이터 개념 
  >
 * Session 04 : 파이썬 라이브러리 활용 기초
- > 1. Numpy, Pandas, Matplotlib 소개
- > 2. 기본 함수 소개
- > 3. Numpy, Pandas, Matplotlib를 활용한 데이터분석 실습
+ >
 * Session 05 : 데이터 수집과 관리
  > 1. Requests, Beautifulsoup, Selenium을 이용한 웹 크롤링 방법
  > 2. Open api 실습 : KOBIS OPEN API 사용 예제
