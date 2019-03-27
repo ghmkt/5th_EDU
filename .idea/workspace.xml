@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="90490888-b602-4063-9768-72cb06328ae9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_04/실습 코드/Session04.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Session_04/실습 코드/Session04.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,10 +15,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="323">
+                <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -38,10 +43,11 @@
       <list>
         <option value="$PROJECT_DIR$/.gitignore.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="376" />
     <option name="y" value="20" />
     <option name="width" value="789" />
@@ -58,6 +64,17 @@
             <path>
               <item name="5th_edu" type="b2602c69:ProjectViewProjectNode" />
               <item name="5th_edu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="5th_edu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5th_edu" type="462c0819:PsiDirectoryNode" />
+              <item name="Session_04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="5th_edu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5th_edu" type="462c0819:PsiDirectoryNode" />
+              <item name="Session_04" type="462c0819:PsiDirectoryNode" />
+              <item name="데이터셋" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -95,15 +112,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553668984715</updated>
-      <workItem from="1553668986542" duration="981000" />
+      <workItem from="1553668986542" duration="2194000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="981000" />
+    <option name="totallyTimeSpent" value="2194000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -141,10 +158,30 @@
     <entry file="file://$PROJECT_DIR$/.gitignore.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Session_04/실습 코드/Session04.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session_04/데이터셋/CCTV_in_Seoul.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="323">
+            <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
