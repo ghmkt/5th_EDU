@@ -20,7 +20,10 @@ Growth hackers 5기 education session을 위한 교육 자료입니다.
  > 3. Jupyter Notebook 사용법
  >
 * Session 03 : 머신러닝과 빅데이터 개념 
- >
+ > 1. 머신러닝과 빅데이터의 개념
+ > 2. 머신러닝 모델
+ > 3. 모델 평가와 최적화
+ 
 * Session 04 : 파이썬 라이브러리 활용 기초
  >
 * Session 05 : 데이터 수집과 관리
