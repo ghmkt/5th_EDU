@@ -15,6 +15,9 @@ Growth hackers 5기 education session을 위한 교육 자료입니다.
 * Session 01 : Introduction
  > 
 * Session 02 : Anaconda, IDE, GIT
+ > 1. Git / GitHub 사용법
+ > 2. Anaconda
+ > 3. Jupyter Notebook 사용법
  >
 * Session 03 : 머신러닝과 빅데이터 개념 
  >
