@@ -8,17 +8,24 @@ Growth hackers 5기 education session을 위한 교육 자료입니다.
 ## Growth hackers 5기 교육 자료 목차
 
 * Session 00 : 송인성 교수님 Meet up
+ > Framework for Data-Driven Marketing Analytics
+ 
+* Session 01 : Introduction
  > 1. 스터디 팀 소개
  > 2. PR, 내부운영, 대외협력팀 소개
  > 3. GitHub 계정 생성
  > 4. 기타
  
-* Session 01 : Introduction
- > 
 * Session 02 : Anaconda, IDE, GIT
+ > 1. Git / GitHub 사용법
+ > 2. Anaconda
+ > 3. Jupyter Notebook 사용법
  >
 * Session 03 : 머신러닝과 빅데이터 개념 
- >
+ > 1. 머신러닝과 빅데이터의 개념
+ > 2. 머신러닝 모델
+ > 3. 모델 평가와 최적화
+ 
 * Session 04 : 파이썬 라이브러리 활용 기초
  >
 * Session 05 : 데이터 수집과 관리
