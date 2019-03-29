@@ -37,7 +37,9 @@ Growth hackers 5기 education session을 위한 교육 자료입니다.
 * Session 06 : 지도학습 1) 회귀 
  >
 * Session 07 : 지도학습 2) 의사결정나무 
- >
+ > 1. 의사결정나무의 기본 (회귀트리와 분류트리)
+ > 2. 앙상블 기법 (배깅과 부스팅)
+ 
 * Session 08 : 비지도학습 
  >
 * Session 09 : 모델 평가와 성능향상
