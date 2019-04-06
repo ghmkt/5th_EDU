@@ -14,7 +14,6 @@ Growth hackers 5기 education session을 위한 교육 자료입니다.
  > 1. 스터디 팀 소개
  > 2. PR, 내부운영, 대외협력팀 소개
  > 3. GitHub 계정 생성
- > 4. 기타
  
 * Session 02 : Anaconda, IDE, GIT
  > 1. Git / GitHub 사용법
