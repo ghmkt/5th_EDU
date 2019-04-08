@@ -43,7 +43,9 @@ Growth hackers 5기 education session을 위한 교육 자료입니다.
 * Session 08 : 비지도학습 
  >
 * Session 09 : 모델 평가와 성능향상
- > 
+ > 1. 모델 평가 지표
+ > 2. 교차검증
+ > 3. 그리드 서치를 통한 파라미터 튜닝
 * Session 10 : 딥러닝
  > 
 * Session 11 : 자연어 처리
