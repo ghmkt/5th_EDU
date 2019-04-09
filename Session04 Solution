@@ -1,0 +1,32 @@
+#1.
+#데이터셋’ 폴더의 CCTV_in_Seoul.csv, population_in_Seoul.csv를 이용, 
+#pandas / numpy를 통해 아래와 같은 형태로 데이터를 정리해 볼 것. 
+#'외국인비율’ = ‘외국인’ / ‘인구수’ * 100, ‘고령자비율’ = ‘고령자’ / ‘인구수’ * 100
+#‘오차’ – l소계 – 회귀직선(인구수)l , 오차는 np.abs를 활용
+
+
+data_result['외국인비율'] = pop_Seoul['외국인'] / pop_Seoul['인구수'] * 100
+data_result['고령자비율'] = pop_Seoul['고령자'] / pop_Seoul['인구수'] * 100
+
+data_result['오차'] = np.abs(data_result['소계'] - f1(data_result['인구수']))
+
+#2
+#(1)에서 정리한 데이터를 ‘오차’ 컬럼을 기준으로 색깔을 입혀서 시각화 해보고
+#이를 통해 무엇을 파악할 수 있는지 주석으로 간략하게 1-2줄로 서술해보기. (plt.colormap, plt.text 로 컬러맵과 이름 추가)
+
+df_sort = data_result.sort_values(by='오차', ascending=False)
+
+plt.figure(figsize=(14,10))
+plt.scatter(data_result['인구수'], data_result['소계'], 
+            c=data_result['오차'], s=50)
+plt.plot(fx, f1(fx), ls='dashed', lw=3, color='g')
+
+for n in range(10):
+    plt.text(df_sort['인구수'][n]*1.02, df_sort['소계'][n]*0.98, 
+             df_sort.index[n], fontsize=15)
+    
+plt.xlabel('인구수')
+plt.ylabel('인구당비율')
+plt.colorbar()
+plt.grid()
+plt.show()
